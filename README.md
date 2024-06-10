@@ -1,2 +1,2 @@
 # Portifolio
- Meu potifolio pessoal
+ Meu portfólio pessoal: https://luizagostinho.github.io/portfolio/
